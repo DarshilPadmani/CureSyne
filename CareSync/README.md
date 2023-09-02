@@ -14,7 +14,7 @@
 
 ### Demo Screeshots
 
-![Darshil Padmani Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Darshil Padmani Desktop Demo
 
 ### Prerequisites
 
