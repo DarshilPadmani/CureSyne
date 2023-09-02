@@ -1,2 +1,1 @@
-# CureSyne
-This website can books appoinments online and it can fetch data of patient by just entering the adhar number. site completion is going on.....
+
